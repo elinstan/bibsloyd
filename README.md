@@ -1,0 +1,2 @@
+# bibsloyd
+Library carpentry experiments
